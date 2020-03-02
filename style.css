@@ -1,0 +1,40 @@
+body {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  font-size: 80px;
+  background: #333;
+  overflow: hidden;
+  min-width: 300px;
+  user-select: none;
+}
+#player span {
+  cursor: pointer;
+  transition: opacity 0.5s;
+  opacity: 1;
+}
+#player span.hidden {
+  opacity: 0;
+}
+#pc {
+  position: absolute;
+  top: 40px;
+  left: calc(50vw - 40px);
+  transform: rotate(180deg);
+  transition: top 0.5s;
+}
+#pc.hidden {
+  top: -120px;
+}
+p {
+  position: absolute;
+  width: 100vw;
+  text-align: center;
+  bottom: 40px;
+  margin: 0;
+  color: #fff;
+  transition: bottom 0.5s;
+}
+p.hidden {
+  bottom: -200px;
+}
