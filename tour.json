@@ -9,6 +9,11 @@
     },
     {
       "file": "style.css",
+      "line": 37,
+      "description": "This is where the text color is set"
+    },
+    {
+      "file": "style.css",
       "line": 6,
       "description": "This is the game's background color. Change it to whatever you'd like!"
     },
