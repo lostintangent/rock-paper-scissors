@@ -12,6 +12,7 @@ body {
   cursor: pointer;
   transition: opacity 0.5s;
   opacity: 1;
+  color: white;
 }
 #player span.hidden {
   opacity: 0;
