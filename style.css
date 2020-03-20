@@ -3,7 +3,7 @@ body {
   place-content: center;
   height: 100vh;
   font-size: 80px;
-  background: #333;
+  background: rgb(27, 17, 17);
   overflow: hidden;
   min-width: 300px;
   user-select: none;
