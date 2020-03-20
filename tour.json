@@ -3,14 +3,14 @@
   "description": "Rock paper scissors",
   "steps": [
     {
-      "file": "index.html",
-      "line": 6,
-      "description": "These elements define the \"hands\". Try changing them and watch it take effect."
-    },
-    {
       "file": "script.js",
       "line": 33,
       "description": "This sets the message when you win the game. Change it and make sure you get the credit you so glaringly deserve."
+    },
+    {
+      "file": "index.html",
+      "line": 6,
+      "description": "These elements define the \"hands\". Try changing them and watch it take effect."
     },
     {
       "file": "style.css",
