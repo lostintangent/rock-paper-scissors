@@ -4,7 +4,7 @@
   "steps": [
     {
       "file": "index.html",
-      "line": 6,
+      "line": 5,
       "description": "These elements define the \"hands\". Try changing them and watch it take effect."
     },
     {
