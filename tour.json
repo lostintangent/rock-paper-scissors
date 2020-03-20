@@ -1,11 +1,5 @@
 {
   "title": "Rock paper scissors",
   "description": "Rock paper scissors",
-  "steps": [
-    {
-      "file": "index.html",
-      "line": 7,
-      "description": "This is where the winning message is declared. Try changing it, and then play the game to see it take effect."
-    }
-  ]
+  "steps": []
 }
