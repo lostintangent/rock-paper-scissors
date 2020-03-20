@@ -8,11 +8,6 @@
       "description": "These elements define the \"hands\". Try changing them and watch it take effect."
     },
     {
-      "file": "style.css",
-      "line": 37,
-      "description": "This is where the text color is set"
-    },
-    {
       "file": "script.js",
       "line": 33,
       "description": "This sets the message when you win the game. Change it and make sure you get the credit you so glaringly deserve.\n\n```javascript\nconsole.log(\"SDFf\");\n```"
