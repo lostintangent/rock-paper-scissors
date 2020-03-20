@@ -13,14 +13,14 @@
       "description": "This is where the text color is set"
     },
     {
-      "file": "style.css",
-      "line": 6,
-      "description": "This is the game's background color. Change it to whatever you'd like!"
-    },
-    {
       "file": "script.js",
       "line": 33,
       "description": "This sets the message when you win the game. Change it and make sure you get the credit you so glaringly deserve.\n\n```javascript\nconsole.log(\"SDFf\");\n```"
+    },
+    {
+      "file": "style.css",
+      "line": 6,
+      "description": "This is the game's background color. Change it to whatever you'd like!"
     }
   ]
 }
