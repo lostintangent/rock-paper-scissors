@@ -6,6 +6,11 @@
       "file": "index.html",
       "line": 6,
       "description": "These elements define the \"hands\". Try changing them and watch it take effect."
+    },
+    {
+      "file": "style.css",
+      "line": 6,
+      "description": "This is the game's background color. Change it to whatever you'd like!"
     }
   ]
 }
