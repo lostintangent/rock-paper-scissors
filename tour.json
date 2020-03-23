@@ -5,7 +5,7 @@
     {
       "file": "index.html",
       "line": 5,
-      "description": "These elements define the \"hands\". Try changing them and watch it take effect."
+      "description": "# Header\n\nThese elements define the \"hands\". Try changing them and watch it take effect.\n\n```javascript\nconsole.log(\"SDFf\");\n```"
     },
     {
       "file": "style.css",
