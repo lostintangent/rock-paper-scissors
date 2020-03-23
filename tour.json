@@ -3,14 +3,14 @@
   "description": "Rock paper scissors",
   "steps": [
     {
-      "file": "script.js",
-      "line": 33,
-      "description": "This sets the message when you win the game. Change it and make sure you get the credit you so glaringly deserve.\n\n```javascript\nconsole.log(\"SDFf\");\n```\n\n[Start Debugging](command:runDebugger)"
-    },
-    {
       "file": "index.html",
       "line": 5,
       "description": "These elements define the \"hands\". Try changing them and watch it take effect."
+    },
+    {
+      "file": "script.js",
+      "line": 33,
+      "description": "This sets the message when you win the game. Change it and make sure you get the credit you so glaringly deserve.\n\n```javascript\nconsole.log(\"SDFf\");\n```\n\n[Start Debugging](command:runDebugger)"
     },
     {
       "file": "style.css",
