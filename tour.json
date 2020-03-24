@@ -10,7 +10,7 @@
     {
       "file": "style.css",
       "line": 6,
-      "description": "This is the game's background color. Change it to whatever you'd like!"
+      "description": "This is the game board's background color. Click on the color swatch to bring up a picker that you can easily explore."
     },
     {
       "file": "script.js",
