@@ -15,7 +15,7 @@
     {
       "file": "script.js",
       "line": 33,
-      "description": "This sets the message when you win the game. Change it and make sure you get the credit you so glaringly deserve.\n\n```javascript\nconsole.log(\"SDFf\");\n```\n\n[Start Debugging](command:runDebugger)"
+      "description": "This sets the message when you win the game. Change it and make sure you get the credit you so glaringly deserve."
     }
   ]
 }
