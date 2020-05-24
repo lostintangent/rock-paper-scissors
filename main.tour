@@ -16,11 +16,6 @@
       "file": "script.js",
       "line": 33,
       "description": "This specifies the message that is displayed when you win the game. Change it and make sure you get the credit you so glaringly deserve! "
-    },
-    {
-      "file": "script.js",
-      "line": 38,
-      "description": "Four"
     }
   ]
 }
