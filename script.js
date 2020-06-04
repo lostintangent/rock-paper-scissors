@@ -25,7 +25,7 @@ const results = function () {
   if (target.id == 'rock'    && pc.dataset.id == 'paper'  || 
       target.id == 'paper'   && pc.dataset.id == 'scissor'|| 
       target.id == 'scissor' && pc.dataset.id == 'rock') {
-    msg.textContent = 'You lost';
+    msg.textContent = 'You lost!!!';
   }
   if (target.id == 'rock'    && pc.dataset.id == 'scissor' || 
       target.id == 'paper'   && pc.dataset.id == 'rock'    || 
