@@ -1,3 +1,4 @@
 {
-    "layout": "grid"
+    "layout": "grid",
+    "showConsole": true
 }
