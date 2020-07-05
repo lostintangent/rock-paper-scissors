@@ -1,5 +1,4 @@
 {
     "layout": "grid",
-    "showConsole": true,
-    "template": true
+    "showConsole": true
 }
