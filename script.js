@@ -2,7 +2,7 @@ const spans = document.querySelectorAll('#player span');
 const pc = document.querySelector('#pc');
 const msg = document.querySelector('p');
 var target;
-const clicked = function (event) {
+const clicked = (event) => {
   if (!document.body.classList.contains('noclick')) {
     document.body.classList.add('noclick');
     target = event.target;
