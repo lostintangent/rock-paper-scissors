@@ -5,7 +5,7 @@
     {
       "file": "index.html",
       "line": 5,
-      "description": "Hey! 👋 Welcome to  Rock Paper Scissors sample. Use this tour to guide you through the app, and learn how to interact with its live coding environment.\n\n---\n\n1️⃣ To start, the `<span>` elements above are what define the game's \"hands\", using simple emoji characters. Try changing their text content and watch it take effect immediately!\n\nOnce your done, click the `Next` link below 👇"
+      "description": "Hey! 👋 Welcome to  Rock Paper Scissors sample. Use this tour to guide you through the app, and learn how to interact with its live coding environment.\n\n---\n\nTo start, the `<span>` elements above are what define the game's \"hands\", using simple emoji characters. Try changing their text content and watch it take effect immediately!\n\nOnce your done, click the `Next` link below 👇"
     },
     {
       "file": "style.css",
