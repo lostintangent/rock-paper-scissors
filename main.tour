@@ -15,7 +15,7 @@
     {
       "file": "script.js",
       "line": 33,
-      "description": "This specifies the message that is displayed when you win the game. Change it and make sure you get the credit you so glaringly deserve! "
+      "description": "This specifies the message that is displayed when you win the game. Change it to something different, and then play the game a few times until you win (and see your custom message!).\n\nOnce your finished, click the `Finish Tour` link below, and explore the app on your own. Thanks for trying this sample out!"
     }
   ]
 }
