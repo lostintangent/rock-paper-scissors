@@ -10,7 +10,7 @@
     {
       "file": "style.css",
       "line": 6,
-      "description": "This is the game board's background color. Click on the color swatch to bring up a picker that you can easily explore."
+      "description": "This is the CSS rule that defines the game board's background color. Hover over the `rgb` text to bring up the color swatch, and then click around to select a color you like. "
     },
     {
       "file": "script.js",
