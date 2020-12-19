@@ -8,7 +8,7 @@ This repo is meant to provide a simple example of how Codespaces can provide an 
 
 1. Interact with the rock-paper-scissors game, and see how it's fully interactive! 🚀
 
-1. Follw the instructions provided by the "code tour", and see how you can edit the HTML/CSS/JS files, and have your changes applied immediately 🔥
+1. Follow the instructions provided by the "code tour", and see how your changes to the HTML/CSS/JS files applied immediately 🔥
 
 ## References
 
