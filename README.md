@@ -1,6 +1,6 @@
 # Rock Paper Scissors ✂️
 
-This repo is meant to provide a simple example of how Codespaces can provide an amazing platform for one-click, interactive learning experiences, using [CodeSwing](https://aka.ms/codeswing) and [CodeTour](https://aka.ms/codetour). 
+This repo provides a simple example of how Codespaces can provide an amazing platform for one-click, interactive learning experiences, using [CodeSwing](https://aka.ms/codeswing) and [CodeTour](https://aka.ms/codetour). 
 
 ## Getting Started
 
