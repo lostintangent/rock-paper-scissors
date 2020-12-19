@@ -1,10 +1,11 @@
 {
+  "$schema": "https://aka.ms/codetour-schema",
   "title": "Rock paper scissors",
   "steps": [
     {
       "file": "index.html",
       "line": 5,
-      "description": "Hey! 👋 Welcome to the Rock Paper Scissors sample.\n\nThese elements define the game \"hands\", using simple emoji characters. Try changing them and watch it take effect immediately!"
+      "description": "Hey! 👋 Welcome to the Rock Paper Scissors sample. Use this code tour to guide you through the app, and learn how to interact with it.\n\n---\n\n1️⃣ To start, these `<span>` elements define the game's \"hands\", using simple emoji characters. Try changing their inner text and watch it take effect immediately!\n\nOnce your done, click the `Next` link below 👇"
     },
     {
       "file": "style.css",
