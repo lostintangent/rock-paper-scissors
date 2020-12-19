@@ -16,3 +16,7 @@ This repo provides a simple example of how Codespaces enables an amazing platfor
 1. [Codespaces](https://github.com/features/codespaces) - On-demand developer environments, powered by the cloud ☁️
 1. [CodeSwing](https://aka.ms/codeswing) - An interactive coding environment for web applications 💃
 1. [CodeTour](https://aka.ms/codetour) - Guided codebase walkthroughs, directly in your editor 🗺️
+
+## Credit
+
+This sample was orinally created by [rafaelcastrocouto](https://codepen.io/rafaelcastrocouto) on [CodePen](https://codepen.io). You can view the source pen [here](https://codepen.io/rafaelcastrocouto/pen/NWqgJPZ).
