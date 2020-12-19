@@ -1,5 +1,6 @@
 {
     "scripts": [],
     "styles": [],
-    "layout": "splitBottom"
+    "layout": "splitBottom",
+    "readmeBehavior": "none"
 }
