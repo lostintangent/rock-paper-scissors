@@ -6,10 +6,11 @@ This repo provides a simple example of how Codespaces enables an amazing platfor
 
 ## Getting Started
 
-1. Click the `Code > Open with Codespaces` button, and wait for the web editor to fully load
-1. Notice that the  editor environment is automatically optimized for working on this project 👍
-1. Interact with the rock-paper-scissors game, and see how it's fully interactive! 🚀
-1. Follow the instructions provided by the "code tour", and see how your changes to the HTML/CSS/JS files are immediately applied 🔥
+1. Press `.` to transition to the web editor
+1. When prompted, install the recommended extensions
+2. After a few seconds, the editor will be automatically laid out as a playground environment
+3. Interact with the rock-paper-scissors game, and see how it's fully interactive! 🚀
+4. Follow the instructions provided by the "code tour", and see how your changes to the HTML/CSS/JS files are immediately applied 🔥
 
 ## References
 
