@@ -1,6 +1,6 @@
 # Rock Paper Scissors: A GitHub.dev Playground ✂️
 
-This repo provides a simple example of how [github.dev](https://twitter.com/github/status/1425505817827151872) can enable an amazing platform for one-click, interactive learning experiences, along with the [CodeSwing](https://aka.ms/codeswing) and [CodeTour](https://aka.ms/codetour) extensions. 
+This repo provides a simple example of how [github.dev](https://twitter.com/github/status/1425505817827151872) can enable a hackable platform for shareable, interactive coding plaugrounds. 
 
 <img width="800px" src="https://user-images.githubusercontent.com/116461/102677518-b2a43c00-4157-11eb-9b45-b8530abe5213.png" />
 
