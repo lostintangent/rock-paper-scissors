@@ -1,13 +1,13 @@
 # Rock Paper Scissors ✂️
 
-This repo provides a simple example of how Codespaces enables an amazing platform for one-click, interactive learning experiences, along with [CodeSwing](https://aka.ms/codeswing) and [CodeTour](https://aka.ms/codetour). 
+This repo provides a simple example of how [github.dev](https://twitter.com/github/status/1425505817827151872) can enable an amazing platform for one-click, interactive learning experiences, along with the [CodeSwing](https://aka.ms/codeswing) and [CodeTour](https://aka.ms/codetour) extensions. 
 
 <img width="800px" src="https://user-images.githubusercontent.com/116461/102677518-b2a43c00-4157-11eb-9b45-b8530abe5213.png" />
 
 ## Getting Started
 
-1. Press `.` to transition to the web editor
-1. When prompted, install the recommended extensions
+1. Press `.` to open this repo in the web editor
+1. When prompted, install the recommended extensions ([CodeSwing](https://aka.ms/codeswing), [CodeTour](https://aka.ms/codetour))
 2. After a few seconds, the editor will be automatically laid out as a playground environment
 3. Interact with the rock-paper-scissors game, and see how it's fully interactive! 🚀
 4. Follow the instructions provided by the "code tour", and see how your changes to the HTML/CSS/JS files are immediately applied 🔥
