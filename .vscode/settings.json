@@ -1,3 +1,4 @@
 {
-    "comments.openView": "never"
+    "comments.openView": "never",
+    "workbench.startupEditor": "none"
 }
