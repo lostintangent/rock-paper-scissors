@@ -1,3 +1,8 @@
 {
-    "extensions": ["codespaces-contrib.codeswing", "vsls-contrib.codetour"]
+    "extensions": ["codespaces-contrib.codeswing", "vsls-contrib.codetour"],
+    "customizations": {
+        "codespaces": {
+            "openFiles": [""]
+        }
+    }
 }
