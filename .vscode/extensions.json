@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "codespaces-contrib.codeswing",
-        "vsls-contrib.codetour"
+        "codespaces-contrib.codeswing"
     ]
 }
