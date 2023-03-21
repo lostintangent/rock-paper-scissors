@@ -4,7 +4,7 @@ const msg = document.querySelector('p');
 var target;
 const clicked = (event) => {
   if (!document.body.classList.contains('noclick')) {
-    document.body.classList.add('noclick');
+    document.body.classLis.tadd('noclick');
     target = event.target;
     for (var span of spans) {
       if (target !== span) {

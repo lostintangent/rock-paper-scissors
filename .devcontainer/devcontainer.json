@@ -1,7 +1,6 @@
 {
     "extensions": [
 		"codespaces-contrib.codeswing",
-		"vsls-contrib.codetour",
 		"GitHub.copilot-nightly"
 	],
     "customizations": {
