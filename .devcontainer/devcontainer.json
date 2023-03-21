@@ -1,16 +1,21 @@
 {
     "extensions": [
-        "codespaces-contrib.codeswing",
-        "vsls-contrib.codetour"
-    ],
+		"codespaces-contrib.codeswing",
+		"vsls-contrib.codetour",
+		"GitHub.copilot-nightly"
+	],
     "customizations": {
         "codespaces": {
-            "openFiles": ["placeholder"]
+            "openFiles": [""]
         },
         "vscode": {
             "settings": {
                 "comments.openView": "never",
-                "workbench.startupEditor": "none"
+                "comments.visible": false,
+                "workbench.startupEditor": "none",
+                "github.copilot.advanced": {
+                    "debug.conversation": true
+                }
             }
         }
     }
