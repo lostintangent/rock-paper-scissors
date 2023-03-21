@@ -12,10 +12,7 @@
             "settings": {
                 "comments.openView": "never",
                 "comments.visible": false,
-                "workbench.startupEditor": "none",
-                "github.copilot.advanced": {
-                    "debug.conversation": true
-                }
+                "workbench.startupEditor": "none"
             }
         }
     }
